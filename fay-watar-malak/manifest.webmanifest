@@ -1,0 +1,20 @@
+{
+  "name": "عالم فيّ ووتر وملك - ألعاب بدون إنترنت",
+  "short_name": "ألعاب البنات",
+  "description": "ثلاث ألعاب مناسبة للأطفال تعمل دون إنترنت بعد التثبيت الأول",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5eaff",
+  "theme_color": "#24194c",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
